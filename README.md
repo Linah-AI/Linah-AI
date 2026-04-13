@@ -14,13 +14,12 @@
 
 ---
 
-### 📚 مش
 ### 📂 مشاريع تقنية مختارة (Featured Projects):
 
-* **[Receipt Finder Project](https://github.com/grop2/RecipeRecom_Project) 📑**
-    * **الوصف:** نظام ذكي يعتمد على تقنيات الذكاء الاصطناعي للتعرف على الإيصالات والبحث فيها بدقة. يهدف المشروع إلى تحويل البيانات الورقية إلى بيانات رقمية منظمة لتسهيل إدارتها.
-    * **الأدوات:** Python, Computer Vision, Data Processing.
-
+* **[Recipe Recommendation App](https://github.com/grop2/RecipeRecom_Project) 🥘**
+    * **الوصف:** تطبيق عملي وخفيف يعمل عبر واجهة السطر البرمجي (CLI) لمساعدة المستخدمين في اختيار وجباتهم بناءً على المكونات المتوفرة لديهم. يتضمن ميزات لحساب السعرات الحرارية وعرض تعليمات الطبخ.
+    * **القيمة التقنية:** تعزيز المهارات في برمجة **Bash Scripting** والتعامل مع قواعد البيانات **SQLite** في بيئة Linux.
+    * **الأدوات:** Bash Shell, SQLite, Linux Terminal.
 * **[Multi-hazard Mapping using ML](https://colab.research.google.com/drive/1YZ1_KqV-qjJIwGxepN8ilyCj1D14vTFR?usp=sharing) 🌍**
     * **الوصف:** دراسة وتحليل متقدم للمخاطر البيئية المتعددة باستخدام خوارزميات تعلم الآلة (Machine Learning). المشروع يقدم خرائط تنبؤية تساهم في دعم اتخاذ القرار لتعزيز السلامة العامة والحد من الكوارث.
     * **الأدوات:** Machine Learning, Data Analysis, Google Colab.
@@ -40,11 +39,7 @@
 ---
 
 ### 📊 إحصائيات GitHub الخاصة بي:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Linah-AI&show_icons=true&theme=radical&hide_border=true&title_color=00ADBB" alt="GitHub Stats" />
-</p>
-
+(https://github-readme-stats.vercel.app/api?username=Linah-Al&show_icons=true&theme=radical&hide_border=true&title_color=00ADBB)
 ---
 
 ### 📫 تواصل معي:
