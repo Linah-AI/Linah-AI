@@ -38,10 +38,6 @@
 
 ---
 
-### 📊 إحصائيات GitHub الخاصة بي:
-(https://github-readme-stats.vercel.app/api?username=Linah-Al&show_icons=true&theme=radical&hide_border=true&title_color=00ADBB)
----
-
 ### 📫 تواصل معي:
 * 📧 هل تبحث عن تعاون في مشروع يجمع بين التقنية والأخلاق؟ يسعدني التواصل!
 * 📍 مكة المكرمة، المملكة العربية السعودية.
